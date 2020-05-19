@@ -1,0 +1,4 @@
+﻿  2.5.cpp
+C:\Users\thest\Downloads\lab prog\lab2\2.5\2.5.cpp(9,31): warning C4101: b: неиспользованная локальная переменная
+C:\Users\thest\Downloads\lab prog\lab2\2.5\2.5.cpp(9,33): warning C4101: c: неиспользованная локальная переменная
+  2.5.vcxproj -> C:\Users\thest\Downloads\lab prog\lab2\2.5\Debug\2.5.exe
